@@ -1,0 +1,6 @@
+{
+    "name": "vivek1/gp",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
